@@ -1,0 +1,1 @@
+<?php echo "AMB MOLTES DIFICULTATS PERO BE"?>
